@@ -1,0 +1,210 @@
+{
+    "count": 20,
+    "urls": {
+        "self": "/articles",
+        "next": "/articles",
+        "prev": "/articles"
+    },
+    "articles": [
+        {
+            "id": "418fe9b3c1143b629c3829e6c572f832ef3aee2f",
+            "url": "https://www.cultofmac.com/713511/apple-plans-in-store-mac-trade-in-program/",
+            "title": "Apple plans in-store Mac trade-in program",
+            "text": "Apple will reportedly soon begin allowing customers to trade in their Mac at its own retail stores.\u00a0Shoppers will supposedly have the option to apply the money toward a new Mac or or other device, or to a gift card. Apple Stores already take trade ins on iPho\u2026",
+            "publisher": "Cult of Mac",
+            "author": "Ed Hardy",
+            "image": "https://cdn.cultofmac.com/wp-content/uploads/2016/03/MacbookPro.jpg",
+            "date": "2020-06-09T22:15:25Z"
+        },
+        {
+            "id": "1a2e8c5433194d871255391c1c5a906fc23c3451",
+            "url": "https://macdailynews.com/2020/06/09/man-sues-apple-for-2-priceless-trillion-over-iphone-repair/",
+            "title": "Man sues Apple for \u2018$2 priceless trillion\u2019 over iPhone repair",
+            "text": "Raevon Terrell Parker has attempted to sue Apple in the U.S. District Court for the Eastern District of Missouri for \"$2 priceless trillion,\" claiming\u2026\nThe post Man sues Apple for \u2018$2 priceless trillion\u2019 over iPhone repair appeared first on MacDailyNews.",
+            "publisher": "Macdailynews.com",
+            "author": "MacDailyNews",
+            "image": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2020/06/2006089_apple_saint_louis.png",
+            "date": "2020-06-09T21:47:15Z"
+        },
+        {
+            "id": "9fa4bc3893c438441a9d4cab0bd7f6060a7ef88c",
+            "url": "https://www.slashgear.com/apple-arm-move-demands-a-classic-mac-reboot-opinion-09624144/",
+            "title": "The Apple ARM move demands a classic Mac reboot",
+            "text": "The dawn of Apple\u2019s switch of macOS to run on Arm processors is finally almost here, at least if the leaks are correct, and I\u2019m hoping it gives one misunderstood Mac product another chance to prove its merit. Rumored for years, it\u2019s a blow to Intel and potent\u2026",
+            "publisher": "SlashGear",
+            "author": "Chris Davies",
+            "image": "https://cdn.slashgear.com/wp-content/uploads/2020/06/macbook-12-inch-4.jpg",
+            "date": "2020-06-09T21:38:13Z"
+        },
+        {
+            "id": "cdb6ace5d0117664922dc01d5f811852d2bc701c",
+            "url": "https://www.cnbc.com/video/2020/06/09/apple-breaks-up-with-intel-as-chip-supplier-for-macs.html",
+            "title": "Apple breaks up with Intel as chip supplier for Macs",
+            "text": "CNBC's Josh Lipton reports that Apple will no longer use Intel chips and will use its own, instead. With CNBC's Melissa Lee and the Fast Money traders, Guy Adami, Tim Seymour, Steve Grasso and Karen Finerman.",
+            "publisher": "CNBC",
+            "author": "Melissa Lee",
+            "image": "https://image.cnbcfm.com/api/v1/image/106571453-15917386513ED3-FM-A-BLOCK-060920.jpg?v=1591738650",
+            "date": "2020-06-09T21:37:57Z"
+        },
+        {
+            "id": "bcfbbd2c5f2bf0b8118d00a0f9e51edb5f77af87",
+            "url": "https://minatokobe.com/wp/os-x/mac/post-66502.html",
+            "title": "Apple\u3001\u300cXcode 11.6 beta (11N700h)\u300d\u3092\u958b\u767a\u8005\u306b\u30ea\u30ea\u30fc\u30b9",
+            "text": "Xcode 11.6 beta (11N700h) Apple\u306f\u3001\u300cXcode 11.6 beta (11N700h)\u300d\u3092\u958b\u767a\u8005\u306b\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u3044\u307e\u3059 Developer account\u306b\u30ed\u30b0\u30a4\u30f3\u3057\u3066Developer Resource Center\u3088\u308a\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3068\u306a\u308a\u307e\u3059 \u300cXcode 11.6 beta (11N700h)\u300d\u306f macOS Mojave 10.15.2 or later\u306b\u5bfe\u5fdc iOS 13.6, iPadOS 13....",
+            "publisher": "Minatokobe.com",
+            "author": "\u9154\u3044\u3069\u308c",
+            "image": "https://minatokobe.com/wp/wp-content/uploads/2020/06/Xcode-Beta.png",
+            "date": "2020-06-09T21:35:20Z"
+        },
+        {
+            "id": "2dbf04e9249965ded37fd0f6449e9069ab713d26",
+            "url": "https://www.macworld.com/article/3546271/ios-and-ipados-13-6-beta-features-release-date.html",
+            "title": "iOS and iPadOS 13.6: Apple releases second beta for developers, updates version number",
+            "text": "In addition to releasing important security updates for all its operating systems on June 1, Apple released the first beta of iOS and iPadOS 13.5.5. A week later, the second beta was released, along with a new version number\u2014it has now been updated to iOS and\u2026",
+            "publisher": "Macworld",
+            "author": "Jason Cross, Jason Cross",
+            "image": "https://images.idgesg.net/images/article/2019/06/ios13-hero-02-100798248-large.3x2.jpg",
+            "date": "2020-06-09T21:26:00Z"
+        },
+        {
+            "id": "56e2819bb187a9655dbbf93b2a07dc095bec5834",
+            "url": "https://www.cnet.com/how-to/how-to-pair-apple-airpods-with-your-windows-10-pc-in-1-minute-reconnect/",
+            "title": "How to pair Apple AirPods with your Windows 10 PC in 1 minute - CNET",
+            "text": "Connecting your Apple earbuds with your Windows computer really is that fast.",
+            "publisher": "CNET",
+            "author": "Matt Elliott",
+            "image": "https://cnet3.cbsistatic.com/img/Sqzyfd-wkg5phKn0KABfk6CVwcc=/2018/04/04/ef309e78-00fb-48e3-a848-0958b097110a/airpods-windows-pc.jpg",
+            "date": "2020-06-09T21:15:03Z"
+        },
+        {
+            "id": "013e8c98f9a013d314f6ed72f86a1f2f536762a1",
+            "url": "https://hip2save.com/2020/06/09/apple-watch-nike-series-5-gps-as-low-as-299-shipped-on-bestbuy-com-regularly-399/",
+            "title": "Apple Watch Nike Series 5 GPS as Low as $299 Shipped on BestBuy.com (Regularly $399)",
+            "text": "Save $100 on these sporty Apple watches from Best Buy! For a limited time, head on over to BestBuy.com where they are offering the Apple Watch Nike Series 5 GPS for as low as $299 shipped (regularly $399)! Even better, score a FREE 4-Month Apple Music subscri\u2026",
+            "publisher": "Hip2save.com",
+            "author": "Nicole (Hip Sidekick)",
+            "image": "https://hip2save.com/wp-content/uploads/2019/11/apple-watch-with-nike.jpg",
+            "date": "2020-06-09T21:10:50Z"
+        },
+        {
+            "id": "f1eaa9544cfaeaa769b5e6f2cca1d48c1739e50e",
+            "url": "https://www.siliconera.com/final-fantasy-xiv-official-playlists-now-available-on-spotify-apple-music-and-other-streaming-services/",
+            "title": "Final Fantasy XIV Official Playlists Now Available on Spotify, Apple Music, and Other Streaming Services",
+            "text": "Square Enix released two official playlists for\u00a0Final Fantasy XIV\u00a0that you can now check out on Spotify and Apple Music.\nThe post Final Fantasy XIV Official Playlists Now Available on Spotify, Apple Music, and Other Streaming Services appeared first on Silico\u2026",
+            "publisher": "Siliconera",
+            "author": "Sato",
+            "image": "https://www.siliconera.com/wp-content/uploads/2020/06/Final-Fantasy-XIV-Official-Playlist-Spotify-Apple-Music-Siliconera.jpg",
+            "date": "2020-06-09T21:00:36Z"
+        },
+        {
+            "id": "13b2a27472eb8af7d9bc9a5a9a9c580e052e82f1",
+            "url": "https://mspoweruser.com/apple-patent-group-selfies-while-social-distancing/",
+            "title": "Apple granted a patent for taking group selfies while social distancing",
+            "text": "Since the start of the coronavirus pandemic, experts have been advocating for social distancing to curb the spread of the virus. However, social distancing also means that people are unable to get together and enjoy as a group. However, Apple\u2019s new patent mig\u2026",
+            "publisher": "MSPoweruser",
+            "author": "Sean Chan",
+            "image": "https://mspoweruser.com/wp-content/uploads/2020/06/6a0120a5580826970c0263ec1f2e37200c-800wi.jpg",
+            "date": "2020-06-09T21:00:01Z"
+        },
+        {
+            "id": "84e3f170a9d59d6fd6d9fb8d48b0a774407ad658",
+            "url": "https://www.idownloadblog.com/?p=818912",
+            "title": "Daily Deals: $5 Apple Watch bands, $40 Eufy smart scale, $79 AT studio headphones, and much more",
+            "text": "Welcome to our Daily Deals column, where we round up the best tech deals from around the web. Here you\u2019ll find discounts on everything from Apple products to accessories, video games and much more. But you better hurry, these prices won\u2019t be around forever!",
+            "publisher": "Idownloadblog.com",
+            "author": "Cody Lee",
+            "image": "https://media.idownloadblog.com/wp-content/uploads/2020/01/Daily-Deals-2020.jpg",
+            "date": "2020-06-09T20:57:47Z"
+        },
+        {
+            "id": "722830e7ce32f4699f89c422afdf3ed5978bc2a8",
+            "url": "https://www.macworld.com/article/3561764/report-apple-retail-stores-to-launch-mac-trade-in-program-next-week-in-u-s-and-canada.html",
+            "title": "Report: Apple retail stores to launch Mac trade-in program next week in U.S. and Canada",
+            "text": "Along with a report that Apple could announce a switch to its own Mac processors at WWDC, Bloomberg on Tuesday says that Apple will launch a Mac trade-in program in its retail stores in the U.S. and Canada, possibly next week.\r\nAccording to Bloomberg, you\u2019ll \u2026",
+            "publisher": "Macworld",
+            "author": "Roman Loyola, Roman Loyola",
+            "image": "https://images.idgesg.net/images/article/2018/01/apple-store-garosugil_02-100747955-large.3x2.jpg",
+            "date": "2020-06-09T20:57:00Z"
+        },
+        {
+            "id": "67926b41fc80204c749ee77a383fc26fb404de91",
+            "url": "http://www.iphonehacks.com/2020/06/new-mac-trade-in-retail-stores.html",
+            "title": "Report: Apple to Launch New Mac Trade-in Program at its Retail Stores",
+            "text": "Apple is expected to launch a trade-in program for Mac at retail stores in the U.S. and Canada. Customers will be able to trade-in their Mac\u2019s at the retail store and get credit for a new purchase.\n \n Continue reading \u2192",
+            "publisher": "iphonehacks.com",
+            "author": "Mahit Huilgol",
+            "image": "http://www.iphonehacks.com/wp-content/uploads/2020/02/Apple-MacBook-Pro-13-inch-2019.jpg",
+            "date": "2020-06-09T20:52:39Z"
+        },
+        {
+            "id": "cc0a167fa1d93a4f29f5a5bb599ac189448591f0",
+            "url": "https://www.notebookcheck.net/The-Apple-Watch-Series-6-may-arrive-with-an-OLED-display-no-microLED-display-in-sight.469532.0.html",
+            "title": "The Apple Watch Series 6 may arrive with an OLED display; no microLED display in sight",
+            "text": "Apple's recent investment of US$330 million in a Taiwanese microLED factory in Taiwan prompted rumours that an Apple Watch using this advanced display technology would be arriving later this year. This will not be the case, according to one leaker.",
+            "publisher": "Notebookcheck.net",
+            "author": "Alex Alderson",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/suganth_IRgxynEYJRQ_unsplash64.jpg",
+            "date": "2020-06-09T20:48:00Z"
+        },
+        {
+            "id": "e0e22312a5550721466860b1479cc48eb3bbeae1",
+            "url": "https://www.cnbc.com/select/how-to-set-up-apple-pay/",
+            "title": "A step-by-step guide on how to set up Apple Pay on your iPhone, iPad, Apple Watch and Mac",
+            "text": "Apple Pay provides a faster and safer way to pay in-store and online. Here's a step-by-step guide on how to set it up on your iPhone, iPad, Apple Watch or Mac and start using it.",
+            "publisher": "CNBC",
+            "author": "Alexandria White",
+            "image": "https://image.cnbcfm.com/api/v1/image/106570809-1591712036545gettyimages-1175230945.jpeg?v=1591712075",
+            "date": "2020-06-09T20:46:44Z"
+        },
+        {
+            "id": "4b0afbb8a1e5064c870ae140b6649adb91b1ae72",
+            "url": "https://www.imore.com/apple-may-finally-add-mac-its-store-trade-program-us",
+            "title": "Apple about to launch in-store Mac Trade-in Program in the U.S. and Canada",
+            "text": "The Mac is finally joining the in-store trade-in program.\n\nWhat you need to know\n\n\nApple is adding the Mac to its in-store trade-in program.\nCustomers will be able to trade in a Mac at one of its retail stores.\nThe program will launch in June 15th in the U.S.\u2026",
+            "publisher": "iMore",
+            "author": "Joe Wituschek",
+            "image": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/09/apple-store-fifth-avenue-new-york-redesign-interior-091919.jpg?itok=gBFJXdSB",
+            "date": "2020-06-09T20:44:16Z"
+        },
+        {
+            "id": "ebc2855e38a092b334039839f16cf39ba5c92cc1",
+            "url": "https://www.fool.com/investing/2020/06/09/apple-amazon-join-nasdaq-at-record-highs-as-race-t.aspx",
+            "title": "Apple, Amazon Join Nasdaq at Record Highs as Race to $2 Trillion Heats Up",
+            "text": "The Nasdaq was the sole bright spot in a down market on Tuesday.",
+            "publisher": "Motley Fool",
+            "author": "newsfeedback@fool.com (Dan Caplinger)",
+            "image": "https://g.foolcdn.com/editorial/images/578063/aapl-ala-moana-store.jpg",
+            "date": "2020-06-09T20:43:00Z"
+        },
+        {
+            "id": "ab0aea9f2859e727e193ee43d29b46b5422003c8",
+            "url": "https://daringfireball.net/2020/06/on_apple_announcing_the_mac_arm_transition_at_wwdc",
+            "title": "\u2605 On Apple Announcing the ARM Mac Transition at WWDC This Month",
+            "text": "It\u2019s uncanny how similar the explanation could be for the PowerPC-to-Intel transition: vastly superior performance-per-watt, and Apple has ideas for future Macs that they can\u2019t build without that superior performance-per-watt.",
+            "publisher": "Daringfireball.net",
+            "author": "John Gruber",
+            "image": "https://daringfireball.net/graphics/df-square-1024.png",
+            "date": "2020-06-09T20:40:14Z"
+        },
+        {
+            "id": "be44d6ff929c942b61ab05714844cae205c649f6",
+            "url": "https://www.trustedreviews.com/news/apple-is-about-to-make-it-easier-to-upgrade-your-old-macbook-report-4036104",
+            "title": "Apple is about to make it easier to upgrade your old MacBook \u2013 report",
+            "text": "Credit: Zhang Peng/LightRocket (via Getty Images)\r\n\niPhone, iPad and Apple Watch owners have long had the option to bring their old device to the Apple Store to trade in for a new model, and it looks like the\u00a0company is about to extend the courtesy to Mac own\u2026",
+            "publisher": "TrustedReviews",
+            "author": "Chris Smith",
+            "image": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/04/GettyImages-657848470-1024x683.jpg",
+            "date": "2020-06-09T20:40:09Z"
+        },
+        {
+            "id": "210dd1809b62bea0741e2b18c720248ae31c5bc3",
+            "url": "https://www.mobigyaan.com/how-to-view-songs-youve-recently-added-in-apple-music",
+            "title": "How To View Songs You've Recently Added In Apple Music - MobiGyaan",
+            "text": "Are you new to Apple Music? Would you like to view the songs that you have recently added to Apple Music? Apple Music offers a number of features to provide you better user experience. If you're enjoying Apple Music on your iPhone, iPad, or other App",
+            "publisher": "Mobigyaan.com",
+            "author": "Divyang Makwana",
+            "image": "https://www.mobigyaan.com/wp-content/uploads/2020/05/Apple-Music.png",
+            "date": "2020-06-09T20:36:00Z"
+        }
+    ]
+}

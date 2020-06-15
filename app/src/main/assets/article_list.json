@@ -1,0 +1,210 @@
+{
+    "count": 20,
+    "urls": {
+        "self": "/articles",
+        "next": "/articles",
+        "prev": "/articles"
+    },
+    "articles": [
+        {
+            "id": "c07281da46ec06d5cc02bfeef014882dbefe2c87",
+            "url": "https://www.theverge.com/good-deals/2020/6/15/21291611/apple-back-to-school-2020-airpods-pro-ipad-air-macbook-air-student-discount",
+            "title": "Apple will give students free AirPods when they buy a MacBook Air or iPad Air",
+            "text": "Apple\u2019s new back-to-school promotion for 2020 includes a set of free AirPods with the purchase of a MacBook Air or iPad Air. If you\u2019re a student who\u2019d rather have the AirPods Pro, you can upgrade for $90 instead of paying $250.",
+            "publisher": "The Verge",
+            "author": "Cameron Faulkner",
+            "image": "https://cdn.vox-cdn.com/thumbor/6UDwiJJZtyJh9p1M8VsqdC1E09A=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15987612/vpavic_190322_3297_0034.jpg",
+            "date": "2020-06-15T16:23:25Z"
+        },
+        {
+            "id": "a51bdc1223351c83a4a5e4c078881d95ada4cf9a",
+            "url": "https://macdailynews.com/2020/06/15/apple-ceo-tim-cook-grateful-u-s-supreme-court-decision-on-lgbtq-workers/",
+            "title": "Apple CEO Tim Cook \u2018grateful\u2019 U.S. Supreme Court decision on LGBTQ workers",
+            "text": "Apple Chief Executive Tim Cook says he\u2019s \u201cgrateful\u201d for the Supreme Court\u2019s 6-3 decision that protects LGBTQ workers from job discrimination\u2026\nThe post Apple CEO Tim Cook \u2018grateful\u2019 U.S. Supreme Court decision on LGBTQ workers appeared first on MacDailyNews.",
+            "publisher": "Macdailynews.com",
+            "author": "MacDailyNews",
+            "image": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2016/02/160226_cook.jpg?resize=263,300",
+            "date": "2020-06-15T16:13:29Z"
+        },
+        {
+            "id": "e4e26b841ed82892ceadc74d7fd41d5a8c5f55cb",
+            "url": "https://slickdeals.net/f/14128343-apple-back-to-school-deal-2020",
+            "title": "Apple Back to School Deal 2020",
+            "text": "Buy a Mac or iPad for college. Get AirPods. You can also upgrade to wireless charging case for additional $40 or AirPods Pro for additional $90. \n \nLast year the deal was different for Mac air (beats  ...",
+            "publisher": "Slickdeals.net",
+            "author": "dhakarocker",
+            "image": "https://static.slickdealscdn.com/attachment/1/5/7/0/9/8/2/3/9152477.attach",
+            "date": "2020-06-15T16:01:04Z"
+        },
+        {
+            "id": "af9b9072538ad98308b2fdfabf960a143eb71523",
+            "url": "https://www.forbes.com/sites/johnkoetsier/2020/06/15/apple-launches-0-interest-installment-plans-for-mac-ipad-airpods-homepod-apple-tv/",
+            "title": "Apple Launches 0% Interest Installment Plans For Mac, iPad, AirPods, HomePod, Apple TV",
+            "text": "Need that new Mac but can\u2019t afford it?",
+            "publisher": "Forbes",
+            "author": "John Koetsier, Senior Contributor, John Koetsier, Senior Contributorhttps://www.forbes.com/sites/johnkoetsier/",
+            "image": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee79a06a0708f00063fb021%2F0x0.jpg",
+            "date": "2020-06-15T15:59:59Z"
+        },
+        {
+            "id": "48debf1bd32ff5604fa84a37174219c9a41c332f",
+            "url": "https://www.iphoneincanada.ca/news/apple-2020-back-to-school-promo-airpods/",
+            "title": "Apple Canada 2020 Back to School Promo: Free AirPods with Mac or iPad",
+            "text": "Apple has launched a new Back to School promotion for 2020, offering up free AirPods with select purchases.",
+            "publisher": "iPhone in Canada",
+            "author": "Gary Ng",
+            "image": "https://teslanorth.com/wp-content/uploads/2020/06/2020-back-to-school-airpods.png",
+            "date": "2020-06-15T15:57:08Z"
+        },
+        {
+            "id": "396cd8fb4566d5e3ad2703c12039629c23d7e50c",
+            "url": "https://www.macworld.com/article/3562771/apple-updates-16-inch-macbook-pro-graphics-with-amd-radeon-pro-5600m-gpu-with-integrated-hbm2-memor.html",
+            "title": "Apple updates 16-inch MacBook Pro graphics with AMD Radeon Pro 5600M GPU with integrated HBM2 memory",
+            "text": "Apple on Monday announced that the 16-inch MacBook Pro now has an option available where you can upgrade the discrete graphics to an AMD Radeon Pro 5600M GPU that uses 8GB of HBM2 memory and is equipped with 40 compute units. The new graphics option is 75 per\u2026",
+            "publisher": "Macworld",
+            "author": "Roman Loyola, Roman Loyola",
+            "image": "https://images.idgesg.net/images/article/2019/11/apple_16-inch-macbook-pro_111319_big.jpg.large_2x-100817680-large.3x2.jpg",
+            "date": "2020-06-15T15:55:00Z"
+        },
+        {
+            "id": "cc4f81b30bc01124feb0a2c05e0c9c96da90a601",
+            "url": "https://appleinsider.com/articles/20/06/15/apple-back-to-school-promotion-offer-free-airpods-with-mac-ipad-orders",
+            "title": "Apple Back To School promotion offer free AirPods with Mac & iPad orders",
+            "text": "Apple has launched its annual Back to School promotion, providing discounts and bonuses like free AirPods to students and educators in preparation for a return to education.",
+            "publisher": "AppleInsider",
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "image": "https://photos5.appleinsider.com/gallery/36214-67170-apple-education-pricing-head-xl.jpg",
+            "date": "2020-06-15T15:53:46Z"
+        },
+        {
+            "id": "5d0d120a1685921f9f1b373ee1abec9642abcede",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=132131614",
+            "title": "Apple launches new 0% Apple Card financing for iPad, Mac, AirPods, and more - 9to5Mac",
+            "text": "Apple launches new 0% Apple Card financing for iPad, Mac, AirPods, and more9to5Mac 2020 iPhone Shock As Nine \u2018All-New\u2019 Apple iPhones RevealedForbes iPhone 12 molds show that flat is backSlashGear Supposed Apple iPhone 12 molds and renders show different-sized\u2026",
+            "publisher": "Slashdot.org",
+            "author": "feedfeeder",
+            "image": "",
+            "date": "2020-06-15T15:53:19Z"
+        },
+        {
+            "id": "79113d3892288596f1ab6813ba7f58be8848dbbe",
+            "url": "http://www.iphonehacks.com/2020/06/apple-offering-free-airpods-ipad-macs-back-school.html",
+            "title": "Apple Offering Free AirPods with iPad and Macs As Part of Back to School Campaign",
+            "text": "Apple has announced its Back to School promotion for 2020 today and this time around, the company is offering free AirPods on purchase of eligible products. Up until last year, Apple used to bundle free Beats headphones with eligible products.\n \n Continue rea\u2026",
+            "publisher": "iphonehacks.com",
+            "author": "Rajesh Pandey",
+            "image": "http://www.iphonehacks.com/wp-content/uploads/2020/06/apple-back-school-2020.png",
+            "date": "2020-06-15T15:53:05Z"
+        },
+        {
+            "id": "4a0f49f4e81a415cca8c66b1a7b712344a4c147a",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=132131568",
+            "title": "Apple offers interest-free financing on more of its products",
+            "text": "The rumors of Apple extending its zero interest purchase plans turned out to be true. Customers can now use an Apple Card to buy products like Macs, iPads and accessories on a monthly installment plan. Some of the less expensive items -- like the App...",
+            "publisher": "Slashdot.org",
+            "author": "feedfeeder",
+            "image": "",
+            "date": "2020-06-15T15:52:06Z"
+        },
+        {
+            "id": "04a39c92fb90dfd0bcc44ba2228af21430c19465",
+            "url": "https://www.patentlyapple.com/patently-apple/2020/06/as-apples-rd-teams-continue-to-push-the-boundaries-of-next-gen-foldable-idevices-a-popular-leaker-comments-on-an-apple-pro.html",
+            "title": "As Apple's R&D Teams continue to push the boundaries of Next-Gen Foldable iDevices, a Popular Leaker comments on an Apple Prototype",
+            "text": "On March 10th Patently Apple posted a granted patent report titled \"Apple Invents Foldable iPad and iPhone that could enter a 'Joint Operating Mode' Similar to Microsoft's Surface Neo.\" While Apple's R&D teams have been working on various foldable devices usi\u2026",
+            "publisher": "Patently Apple",
+            "author": "Jack Purcher",
+            "image": "https://www.patentlyapple.com/.a/6a0120a5580826970c0263e950b6ef200b-600wi",
+            "date": "2020-06-15T15:51:24Z"
+        },
+        {
+            "id": "c0fc05d412a305455e042d023440359413ad7f68",
+            "url": "https://www.commonsensewithmoney.com/apple-ipad-mini-wi-fi-64gb-latest-model-349-shipped-reg-400/",
+            "title": "Apple iPad Mini (Wi-Fi, 64GB) Latest Model Only $349 Shipped! (Reg. $400)",
+            "text": "Have you wanted an iPad Mini?? These are so great on road trips too! Amazon has the Apple iPad Mini (Wi-Fi, 64GB) Latest Model for only $349 Shipped! (Reg. $400) This has amazing 5 star reviews. Keep in mind, Amazon pricing can change at any time! Don...",
+            "publisher": "Commonsensewithmoney.com",
+            "author": "F2D",
+            "image": "",
+            "date": "2020-06-15T15:50:36Z"
+        },
+        {
+            "id": "6bcefa36420016c5d21140b5372bd037f57c2fbb",
+            "url": "https://hothardware.com/news/macbook-pro-new-amd-radeon-pro-5600m-mac-pro-diy-ssd-upgrades#id",
+            "title": "16-Inch MacBook Pro Adds AMD Radeon Pro 5600M With 8GB HBM2, Apple Offers Mac Pro DIY SSD Kits",
+            "text": "Apple's flagship\u00a016-inch MacBook Pro\u00a0is getting a new upgrade option today, and it doesn't come cheap. Both Apple and AMD today announced the availably of the new Radeon Pro 5600M mobile GPU, which will be the new high-end option for mobile professionals, slo\u2026",
+            "publisher": "Hot Hardware",
+            "author": "Brandon Hill",
+            "image": "https://images.hothardware.com/contentimages/newsitem/51943/content/Apple_16-inch-MacBook-Pro_111319.jpg",
+            "date": "2020-06-15T15:49:00Z"
+        },
+        {
+            "id": "511fa0526c4f6b11294d387c623d5af2a324354a",
+            "url": "https://www.imore.com/apple-looks-covid-19-squarely-eye-plans-busy-second-half-2020",
+            "title": "Apple set to launch new hardware soon including at least one surprise",
+            "text": "The second half of the year should feature lots of product announcements by Apple.\n\nThe calendar says it's June, but this doesn't feel like June, any more than March, April, and May felt like typical spring months. The coronavirus and the economic devastation\u2026",
+            "publisher": "iMore",
+            "author": "Bryan M Wolfe",
+            "image": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/06/apple_details-for-wwdc2020_06022020.jpg?itok=ZZs91eNk",
+            "date": "2020-06-15T15:48:02Z"
+        },
+        {
+            "id": "14581ea6fabf0ae1d59b7e360e153d034eca19a4",
+            "url": "https://9to5mac.com/2020/06/15/apple-back-to-school-promotion-free-airpods/",
+            "title": "Apple 2020 Back to School promo: Free AirPods with Mac and iPad purchases",
+            "text": "Apple has launched its Back to School promotion for 2020 in the US. In a change from previous years where Apple has included a free pair of Beats headphones, this time around the deal sees the massively popular AirPods included with Mac and iPad education pur\u2026",
+            "publisher": "9to5Mac",
+            "author": "Michael Potuck",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2020/06/apple-back-to-school-promotion-2020.jpeg?resize=1024,512",
+            "date": "2020-06-15T15:42:58Z"
+        },
+        {
+            "id": "8c7c7554f0c15bfb0459e278dd221b3f380bfda4",
+            "url": "https://slickdeals.net/f/14128292-apple-ipad-10-2-inch-wi-fi-only-7th-generation-249-99",
+            "title": "Apple iPad 10.2-inch Wi-Fi Only (7th Generation) $249.99",
+            "text": "Target Apple sale \n \nhttps://www.target.com/p/apple-ipad-10-2-inch-wi-fi-only-7th-generation/-/A-78305935?preselect=54184213#lnk=sametab",
+            "publisher": "Slickdeals.net",
+            "author": "Skye1",
+            "image": "https://slickdeals.net/images/avatar/sd/new/sd-facebook-5-2.png",
+            "date": "2020-06-15T15:40:28Z"
+        },
+        {
+            "id": "6b5b235cff995dad0dd1f634390e971b1e8de1b8",
+            "url": "https://vrzone.com/articles/apple-adds-options-for-16-inch-macbook-pro-mac-pro-ahead-of-wwdc-2020/142317.html",
+            "title": "Apple Adds Options For 16-inch MacBook Pro, Mac Pro Ahead of WWDC 2020",
+            "text": "16-inch MacBook Pro, Mac Pro gets updates Just weeks from the first-ever virtual WWDC 2020, Apple has announced a smattering of upgrades and options to its two Mac workflows: the Mac Pro and 16-inch MacBook Pro. Graphics improvements to 16-inch MacBook Pro Pr\u2026",
+            "publisher": "Vrzone.com",
+            "author": "Ian Ling",
+            "image": "https://vrzone.com/wp-content/uploads/2020/05/photo-1509227035009-4bef0b738dd3-1.jpeg",
+            "date": "2020-06-15T15:32:10Z"
+        },
+        {
+            "id": "fa582b397a324683d36db598dc617e1ed3e15900",
+            "url": "https://www.engadget.com/apple-card-installment-plans-151259919.html",
+            "title": "Apple offers interest-free financing on more of its products",
+            "text": "The rumors of Apple extending its zero interest purchase plans turned out to be true. Customers can now use an Apple Card to buy products like Macs, iPads and accessories on a monthly installment plan. Some of the less expensive items -- like the Apple Pencil\u2026",
+            "publisher": "Engadget",
+            "author": "Marc DeAngelis",
+            "image": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2Ff8c5df00-af16-11ea-b5bf-790bdbcdad77&client=amp-blogside-v2&signature=62e5050bc9bccccfd4e9a918f45d49928199caf1",
+            "date": "2020-06-15T15:12:59Z"
+        },
+        {
+            "id": "4d96f02edfaa74136b4ee7659772abbe62af44b6",
+            "url": "https://mashable.com/article/apple-free-airpods-back-to-school/",
+            "title": "Apple could give away free AirPods with Macs and iPads as back-to-school promotion",
+            "text": "AirPods are cool. Free AirPods are even cooler.\u00a0\nAccording to MacRumors, a promotional banner in the Apple Store app suggested that students and educators could get a free pair of AirPods with an eligible purchase of an iPad or a Mac computer. Apple's annual \u2026",
+            "publisher": "Mashable",
+            "author": "Alex Perry",
+            "image": "https://mondrian.mashable.com/2020%252F06%252F15%252F02%252Fb78d5d463bfd4cf8a04b9dd5f7abd479.0bcb7.jpg%252F1200x630.jpg?signature=iALev3hNwSyiLsbOYETis5RWKCQ=",
+            "date": "2020-06-15T15:11:13Z"
+        },
+        {
+            "id": "d0fea7d27efaee5e5658cc3c1bce9a983ae5657e",
+            "url": "https://www.cnet.com/personal-finance/apple-expands-interest-free-financing-on-new-products-with-apple-card/",
+            "title": "Apple expands interest-free financing on new products with Apple Card",
+            "text": "Buying an iPad, Mac or AirPods just got a little easier with Apple's credit card.",
+            "publisher": "CNET",
+            "author": "Eli Blumenthal",
+            "image": "https://cnet2.cbsistatic.com/img/RoIVk4616p5CJcUtJpwd95O5MF4=/756x567/2019/09/05/b80ca438-7dca-4c7b-ab34-74282b6a8d33/52-apple-card.jpg",
+            "date": "2020-06-15T15:08:48Z"
+        }
+    ]
+}
